@@ -22,7 +22,7 @@ From these tabs we were able to scrape metadata that contains the product name, 
 What we are hoping to analyze through this project is the trends seen throughout the products that are carried and sold on the Skims website and run some trend anlysis using simulated purchase orders. We want to see if we can simulate purchases to identify popular items that can then be expanded upon, in future analysis, using realworld customer data to inform buyers of popular items that are selling out quickly. For the purposes of this assignment customer information, including purchase orders, will be simulated.
 
 
-## Literature review
+## Literature review:
 
 The exercise that we conducted is common practice in the merchandise/sales world. But without having access to the backend of a website to collect customer information our analysis is, at best, an estimate. What is unique about this project is we can start to see how companies plan inventory and stock products based on sales numbers. But this leaves the question of how social norms play into the inventories and purchase orders of the large retailers. In this day and age size inclusivity is a hotbutton issue as more and more underrepresented groups are reclaiming their space in the world. But how does this play into inventory when a company's sole goal is to make a profit? 
 
